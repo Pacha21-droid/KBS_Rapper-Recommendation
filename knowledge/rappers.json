@@ -1,0 +1,514 @@
+[
+  {
+    "name": "2Pac",
+    "era": "90s",
+    "topics": ["struggle", "politics", "crime", "storytelling", "motivation"],
+    "styles": ["lyrical", "conscious", "storytelling"],
+    "region": "west coast",
+    "similar_artists": ["Nas", "Kendrick Lamar", "Scarface"]
+  },
+  {
+    "name": "The Notorious B.I.G.",
+    "era": "90s",
+    "topics": ["crime", "street", "money", "storytelling"],
+    "styles": ["storytelling", "hardcore", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Jay-Z", "Big Pun", "Nas"]
+  },
+  {
+    "name": "Nas",
+    "era": "90s",
+    "topics": ["street", "politics", "storytelling", "struggle"],
+    "styles": ["lyrical", "boom_bap", "conscious"],
+    "region": "east coast",
+    "similar_artists": ["AZ", "Rakim", "Kendrick Lamar"]
+  },
+  {
+    "name": "Jay-Z",
+    "era": "90s",
+    "topics": ["money", "street", "flexing", "business"],
+    "styles": ["lyrical", "boom_bap", "storytelling"],
+    "region": "east coast",
+    "similar_artists": ["Biggie", "Pusha T", "Cam'ron"]
+  },
+  {
+    "name": "Eminem",
+    "era": "2000s",
+    "topics": ["disstracks", "struggle", "storytelling", "depression"],
+    "styles": ["lyrical", "hardcore", "freestyle"],
+    "region": "midwest",
+    "similar_artists": ["Royce da 5'9\"", "50 Cent", "Joyner Lucas"]
+  },
+  {
+    "name": "Rakim",
+    "era": "80s",
+    "topics": ["lyricism", "freestyle", "street"],
+    "styles": ["boom_bap", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["KRS-One", "Big Daddy Kane", "Nas"]
+  },
+  {
+    "name": "KRS-One",
+    "era": "80s",
+    "topics": ["politics", "conscious", "freestyle"],
+    "styles": ["boom_bap", "conscious", "freestyle"],
+    "region": "east coast",
+    "similar_artists": ["Rakim", "Public Enemy", "Mos Def"]
+  },
+  {
+    "name": "Big Daddy Kane",
+    "era": "80s",
+    "topics": ["freestyle", "flexing", "battle_rap"],
+    "styles": ["boom_bap", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Rakim", "LL Cool J", "KRS-One"]
+  },
+  {
+    "name": "LL Cool J",
+    "era": "80s",
+    "topics": ["love", "flexing", "party"],
+    "styles": ["boom_bap", "commercial"],
+    "region": "east coast",
+    "similar_artists": ["Big Daddy Kane", "Run-DMC", "Ja Rule"]
+  },
+  {
+    "name": "Ice Cube",
+    "era": "90s",
+    "topics": ["politics", "crime", "street", "gang_life"],
+    "styles": ["gangsta", "hardcore"],
+    "region": "west coast",
+    "similar_artists": ["N.W.A", "2Pac", "The Game"]
+  },
+  {
+    "name": "Method Man",
+    "era": "90s",
+    "topics": ["street", "freestyle", "party"],
+    "styles": ["boom_bap", "hardcore"],
+    "region": "east coast",
+    "similar_artists": ["Redman", "Ghostface Killah", "Raekwon"]
+  },
+  {
+    "name": "Ghostface Killah",
+    "era": "90s",
+    "topics": ["crime", "storytelling", "street"],
+    "styles": ["boom_bap", "storytelling"],
+    "region": "east coast",
+    "similar_artists": ["Raekwon", "Method Man", "GZA"]
+  },
+  {
+    "name": "Raekwon",
+    "era": "90s",
+    "topics": ["crime", "mafioso", "street"],
+    "styles": ["boom_bap", "storytelling"],
+    "region": "east coast",
+    "similar_artists": ["Ghostface Killah", "Nas", "AZ"]
+  },
+  {
+    "name": "GZA",
+    "era": "90s",
+    "topics": ["conscious", "science", "lyricism"],
+    "styles": ["lyrical", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["RZA", "Mos Def", "Black Thought"]
+  },
+  {
+    "name": "RZA",
+    "era": "90s",
+    "topics": ["street", "philosophy", "crime"],
+    "styles": ["experimental", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["GZA", "Method Man", "Wu-Tang Clan"]
+  },
+  {
+    "name": "Inspectah Deck",
+    "era": "90s",
+    "topics": ["freestyle", "battle_rap", "street"],
+    "styles": ["lyrical", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["GZA", "Method Man", "Raekwon"]
+  },
+  {
+    "name": "Ol' Dirty Bastard",
+    "era": "90s",
+    "topics": ["party", "street", "chaos"],
+    "styles": ["experimental", "hardcore"],
+    "region": "east coast",
+    "similar_artists": ["Method Man", "Redman", "Busta Rhymes"]
+  },
+  {
+    "name": "Mobb Deep",
+    "era": "90s",
+    "topics": ["crime", "street", "darkness"],
+    "styles": ["hardcore", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Nas", "Cormega", "Onyx"]
+  },
+  {
+    "name": "AZ",
+    "era": "90s",
+    "topics": ["street", "mafioso", "lyricism"],
+    "styles": ["lyrical", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Nas", "Raekwon", "Cormega"]
+  },
+  {
+    "name": "Cormega",
+    "era": "90s",
+    "topics": ["street", "struggle", "crime"],
+    "styles": ["boom_bap", "storytelling"],
+    "region": "east coast",
+    "similar_artists": ["Nas", "AZ", "Mobb Deep"]
+  },
+  {
+    "name": "Dr. Dre",
+    "era": "90s",
+    "topics": ["street", "gang_life", "party"],
+    "styles": ["g_funk", "gangsta"],
+    "region": "west coast",
+    "similar_artists": ["Snoop Dogg", "Ice Cube", "Eazy-E"]
+  },
+  {
+    "name": "Snoop Dogg",
+    "era": "90s",
+    "topics": ["party", "street", "flexing"],
+    "styles": ["g_funk", "melodic"],
+    "region": "west coast",
+    "similar_artists": ["Dr. Dre", "Warren G", "Kurupt"]
+  },
+  {
+    "name": "Eazy-E",
+    "era": "80s",
+    "topics": ["crime", "gang_life", "street"],
+    "styles": ["gangsta", "hardcore"],
+    "region": "west coast",
+    "similar_artists": ["N.W.A", "Ice Cube", "MC Ren"]
+  },
+  {
+    "name": "MC Ren",
+    "era": "90s",
+    "topics": ["crime", "street", "politics"],
+    "styles": ["gangsta", "hardcore"],
+    "region": "west coast",
+    "similar_artists": ["Eazy-E", "Ice Cube", "N.W.A"]
+  },
+  {
+    "name": "DJ Quik",
+    "era": "90s",
+    "topics": ["party", "street", "money"],
+    "styles": ["g_funk", "melodic"],
+    "region": "west coast",
+    "similar_artists": ["Snoop Dogg", "Warren G", "Too $hort"]
+  },
+  {
+    "name": "The Game",
+    "era": "2000s",
+    "topics": ["gang_life", "street", "disstracks"],
+    "styles": ["gangsta", "hardcore"],
+    "region": "west coast",
+    "similar_artists": ["50 Cent", "Ice Cube", "Dr. Dre"]
+  },
+  {
+    "name": "Xzibit",
+    "era": "2000s",
+    "topics": ["street", "struggle", "crime"],
+    "styles": ["hardcore", "lyrical"],
+    "region": "west coast",
+    "similar_artists": ["The Game", "Ice Cube", "Eminem"]
+  },
+  {
+    "name": "Warren G",
+    "era": "90s",
+    "topics": ["party", "street", "love"],
+    "styles": ["g_funk", "melodic"],
+    "region": "west coast",
+    "similar_artists": ["Snoop Dogg", "Dr. Dre", "DJ Quik"]
+  },
+  {
+    "name": "Kurupt",
+    "era": "90s",
+    "topics": ["battle_rap", "street", "crime"],
+    "styles": ["hardcore", "lyrical"],
+    "region": "west coast",
+    "similar_artists": ["Daz Dillinger", "Snoop Dogg", "Xzibit"]
+  },
+  {
+    "name": "Too $hort",
+    "era": "90s",
+    "topics": ["flexing", "party", "street"],
+    "styles": ["player_rap", "west_coast"],
+    "region": "west coast",
+    "similar_artists": ["Snoop Dogg", "DJ Quik", "E-40"]
+  },
+  {
+    "name": "Outkast",
+    "era": "2000s",
+    "topics": ["storytelling", "love", "conscious", "party"],
+    "styles": ["experimental", "southern", "jazz_rap"],
+    "region": "south",
+    "similar_artists": ["Goodie Mob", "Kanye West", "Mos Def"]
+  },
+  {
+    "name": "Scarface",
+    "era": "90s",
+    "topics": ["struggle", "street", "depression"],
+    "styles": ["storytelling", "southern"],
+    "region": "south",
+    "similar_artists": ["2Pac", "UGK", "Geto Boys"]
+  },
+  {
+    "name": "UGK",
+    "era": "90s",
+    "topics": ["street", "money", "southern_life"],
+    "styles": ["southern", "storytelling"],
+    "region": "south",
+    "similar_artists": ["Outkast", "Scarface", "Three 6 Mafia"]
+  },
+  {
+    "name": "Three 6 Mafia",
+    "era": "2000s",
+    "topics": ["crime", "party", "street"],
+    "styles": ["crunk", "horrorcore"],
+    "region": "south",
+    "similar_artists": ["UGK", "Juicy J", "Project Pat"]
+  },
+  {
+    "name": "T.I.",
+    "era": "2000s",
+    "topics": ["street", "money", "motivation"],
+    "styles": ["trap", "southern"],
+    "region": "south",
+    "similar_artists": ["Jeezy", "Gucci Mane", "Kanye West"]
+  },
+  {
+    "name": "Mos Def",
+    "era": "2000s",
+    "topics": ["politics", "conscious", "love"],
+    "styles": ["conscious", "jazz_rap"],
+    "region": "east coast",
+    "similar_artists": ["Talib Kweli", "Common", "Black Thought"]
+  },
+  {
+    "name": "Talib Kweli",
+    "era": "2000s",
+    "topics": ["politics", "conscious", "social_issues"],
+    "styles": ["conscious", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Mos Def", "Common", "Lupe Fiasco"]
+  },
+  {
+    "name": "Common",
+    "era": "2000s",
+    "topics": ["love", "conscious", "politics"],
+    "styles": ["jazz_rap", "conscious"],
+    "region": "midwest",
+    "similar_artists": ["Mos Def", "Kanye West", "Talib Kweli"]
+  },
+  {
+    "name": "Black Thought",
+    "era": "2000s",
+    "topics": ["lyricism", "conscious", "freestyle"],
+    "styles": ["lyrical", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Pharoahe Monch", "Mos Def", "Lupe Fiasco"]
+  },
+  {
+    "name": "Lupe Fiasco",
+    "era": "2000s",
+    "topics": ["politics", "conscious", "storytelling"],
+    "styles": ["lyrical", "conscious"],
+    "region": "midwest",
+    "similar_artists": ["Kendrick Lamar", "Talib Kweli", "Common"]
+  },
+  {
+    "name": "Immortal Technique",
+    "era": "2000s",
+    "topics": ["politics", "revolution", "conspiracy"],
+    "styles": ["hardcore", "conscious"],
+    "region": "east coast",
+    "similar_artists": ["Dead Prez", "Mos Def", "Canibus"]
+  },
+  {
+    "name": "Canibus",
+    "era": "90s",
+    "topics": ["battle_rap", "lyricism", "science"],
+    "styles": ["lyrical", "hardcore"],
+    "region": "east coast",
+    "similar_artists": ["Black Thought", "KRS-One", "Pharoahe Monch"]
+  },
+  {
+    "name": "Aesop Rock",
+    "era": "2000s",
+    "topics": ["abstract", "depression", "philosophy"],
+    "styles": ["experimental", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["MF DOOM", "El-P", "Atmosphere"]
+  },
+  {
+    "name": "Jadakiss",
+    "era": "2000s",
+    "topics": ["street", "freestyle", "battle_rap"],
+    "styles": ["hardcore", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Styles P", "The LOX", "Fabolous"]
+  },
+  {
+    "name": "Cassidy",
+    "era": "2000s",
+    "topics": ["battle_rap", "freestyle", "flexing"],
+    "styles": ["lyrical", "freestyle"],
+    "region": "east coast",
+    "similar_artists": ["Lloyd Banks", "Papoose", "Fabolous"]
+  },
+  {
+    "name": "50 Cent",
+    "era": "2000s",
+    "topics": ["street", "money", "disstracks"],
+    "styles": ["gangsta", "commercial"],
+    "region": "east coast",
+    "similar_artists": ["The Game", "Eminem", "Lloyd Banks"]
+  },
+  {
+    "name": "Royce da 5'9\"",
+    "era": "2000s",
+    "topics": ["lyricism", "freestyle", "struggle"],
+    "styles": ["lyrical", "hardcore"],
+    "region": "midwest",
+    "similar_artists": ["Eminem", "Black Thought", "KXNG Crooked"]
+  },
+  {
+    "name": "Kanye West",
+    "era": "2000s",
+    "topics": ["love", "depression", "flexing", "motivation"],
+    "styles": ["experimental", "soul_sample", "melodic"],
+    "region": "midwest",
+    "similar_artists": ["Kid Cudi", "Common", "Drake"]
+  },
+  {
+    "name": "Kid Cudi",
+    "era": "2000s",
+    "topics": ["depression", "love", "loneliness"],
+    "styles": ["melodic", "experimental"],
+    "region": "midwest",
+    "similar_artists": ["Kanye West", "Drake", "Travis Scott"]
+  },
+  {
+    "name": "J. Cole",
+    "era": "2010s",
+    "topics": ["struggle", "politics", "storytelling"],
+    "styles": ["conscious", "lyrical"],
+    "region": "south",
+    "similar_artists": ["Kendrick Lamar", "Drake", "Nas"]
+  },
+  {
+    "name": "Kendrick Lamar",
+    "era": "2010s",
+    "topics": ["politics", "struggle", "conscious", "storytelling"],
+    "styles": ["lyrical", "conscious", "experimental"],
+    "region": "west coast",
+    "similar_artists": ["2Pac", "J. Cole", "Lupe Fiasco"]
+  },
+  {
+    "name": "Drake",
+    "era": "2010s",
+    "topics": ["love", "flexing", "depression"],
+    "styles": ["melodic", "commercial"],
+    "region": "canada",
+    "similar_artists": ["Kanye West", "Kid Cudi", "J. Cole"]
+  },
+  {
+    "name": "Pusha T",
+    "era": "2000s",
+    "topics": ["crime", "money", "street"],
+    "styles": ["hardcore", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Clipse", "Jay-Z", "Raekwon"]
+  },
+  {
+    "name": "MF DOOM",
+    "era": "2000s",
+    "topics": ["abstract", "storytelling", "villainy"],
+    "styles": ["experimental", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Aesop Rock", "Madlib", "Del the Funky Homosapien"]
+  },
+  {
+    "name": "DMX",
+    "era": "90s",
+    "topics": ["struggle", "street", "religion"],
+    "styles": ["hardcore", "aggressive"],
+    "region": "east coast",
+    "similar_artists": ["Onyx", "50 Cent", "Ja Rule"]
+  },
+  {
+    "name": "Redman",
+    "era": "90s",
+    "topics": ["party", "street", "humor"],
+    "styles": ["hardcore", "funk"],
+    "region": "east coast",
+    "similar_artists": ["Method Man", "Busta Rhymes", "Ludacris"]
+  },
+  {
+    "name": "Busta Rhymes",
+    "era": "90s",
+    "topics": ["party", "freestyle", "energy"],
+    "styles": ["experimental", "hardcore"],
+    "region": "east coast",
+    "similar_artists": ["Missy Elliott", "Redman", "Ol' Dirty Bastard"]
+  },
+  {
+    "name": "Big Pun",
+    "era": "90s",
+    "topics": ["street", "lyricism", "crime"],
+    "styles": ["hardcore", "lyrical"],
+    "region": "east coast",
+    "similar_artists": ["Fat Joe", "Big L", "Nas"]
+  },
+  {
+    "name": "Big L",
+    "era": "90s",
+    "topics": ["battle_rap", "street", "crime"],
+    "styles": ["lyrical", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Big Pun", "Nas", "Jay-Z"]
+  },
+  {
+    "name": "Gang Starr",
+    "era": "90s",
+    "topics": ["conscious", "street", "lyricism"],
+    "styles": ["boom_bap", "jazz_rap"],
+    "region": "east coast",
+    "similar_artists": ["Pete Rock", "Nas", "Common"]
+  },
+  {
+    "name": "Guru",
+    "era": "90s",
+    "topics": ["conscious", "street", "life"],
+    "styles": ["jazz_rap", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Gang Starr", "Pete Rock", "Common"]
+  },
+  {
+    "name": "Pete Rock",
+    "era": "90s",
+    "topics": ["soul", "street", "conscious"],
+    "styles": ["jazz_rap", "boom_bap"],
+    "region": "east coast",
+    "similar_artists": ["Gang Starr", "Guru", "Common"]
+  },
+  {
+    "name": "Public Enemy",
+    "era": "80s",
+    "topics": ["politics", "revolution", "social_issues"],
+    "styles": ["conscious", "hardcore"],
+    "region": "east coast",
+    "similar_artists": ["KRS-One", "Dead Prez", "Immortal Technique"]
+  },
+  {
+    "name": "N.W.A",
+    "era": "80s",
+    "topics": ["crime", "politics", "gang_life"],
+    "styles": ["gangsta", "hardcore"],
+    "region": "west coast",
+    "similar_artists": ["Ice Cube", "Eazy-E", "Dr. Dre"]
+  }
+]

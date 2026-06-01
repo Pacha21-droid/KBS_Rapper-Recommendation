@@ -1,0 +1,293 @@
+{
+"topics": {
+"soul": {
+  "infer_styles": [
+    "soul_sample",
+    "jazz_rap",
+    "conscious"
+  ],
+  "weight": 4
+},
+
+"motivation": {
+  "infer_styles": [
+    "conscious",
+    "lyrical"
+  ],
+  "weight": 4
+},
+
+"business": {
+  "infer_styles": [
+    "commercial",
+    "player_rap"
+  ],
+  "weight": 3
+},
+
+"crime": {
+  "infer_styles": [
+    "gangsta",
+    "hardcore"
+  ],
+  "weight": 5
+},
+
+"villainy": {
+  "infer_styles": [
+    "experimental",
+    "hardcore"
+  ],
+  "weight": 4
+},
+
+"battle_rap": {
+  "infer_styles": [
+    "aggressive",
+    "hardcore",
+    "lyrical"
+  ],
+  "weight": 5
+},
+
+"humor": {
+  "infer_styles": [
+    "funk",
+    "commercial"
+  ],
+  "weight": 3
+},
+
+"mafioso": {
+  "infer_styles": [
+    "hardcore",
+    "boom_bap"
+  ],
+  "weight": 5
+},
+
+"energy": {
+  "infer_styles": [
+    "aggressive",
+    "crunk"
+  ],
+  "weight": 4
+},
+
+"conspiracy": {
+  "infer_styles": [
+    "experimental",
+    "conscious"
+  ],
+  "weight": 4
+},
+
+"street": {
+  "infer_styles": [
+    "gangsta",
+    "hardcore"
+  ],
+  "weight": 4
+},
+
+"chaos": {
+  "infer_styles": [
+    "hardcore",
+    "experimental"
+  ],
+  "weight": 4
+},
+
+"conscious": {
+  "infer_styles": [
+    "conscious",
+    "lyrical",
+    "boom_bap"
+  ],
+  "weight": 5
+},
+
+"politics": {
+  "infer_styles": [
+    "conscious",
+    "boom_bap",
+    "lyrical"
+  ],
+  "weight": 5
+},
+
+"philosophy": {
+  "infer_styles": [
+    "conscious",
+    "lyrical"
+  ],
+  "weight": 4
+},
+
+"revolution": {
+  "infer_styles": [
+    "conscious",
+    "aggressive"
+  ],
+  "weight": 5
+},
+
+"abstract": {
+  "infer_styles": [
+    "experimental",
+    "jazz_rap"
+  ],
+  "weight": 5
+},
+
+"storytelling": {
+  "infer_styles": [
+    "storytelling",
+    "boom_bap",
+    "lyrical"
+  ],
+  "weight": 5
+},
+
+"disstracks": {
+  "infer_styles": [
+    "aggressive",
+    "hardcore"
+  ],
+  "weight": 5
+},
+
+"party": {
+  "infer_styles": [
+    "commercial",
+    "g_funk",
+    "crunk"
+  ],
+  "weight": 5
+},
+
+"darkness": {
+  "infer_styles": [
+    "horrorcore",
+    "experimental"
+  ],
+  "weight": 5
+},
+
+"social_issues": {
+  "infer_styles": [
+    "conscious",
+    "boom_bap"
+  ],
+  "weight": 5
+},
+
+"life": {
+  "infer_styles": [
+    "storytelling",
+    "conscious"
+  ],
+  "weight": 3
+},
+
+"religion": {
+  "infer_styles": [
+    "conscious",
+    "storytelling"
+  ],
+  "weight": 4
+},
+
+"freestyle": {
+  "infer_styles": [
+    "freestyle",
+    "lyrical",
+    "hardcore"
+  ],
+  "weight": 5
+},
+
+"love": {
+  "infer_styles": [
+    "melodic",
+    "commercial"
+  ],
+  "weight": 4
+},
+
+"money": {
+  "infer_styles": [
+    "commercial",
+    "player_rap"
+  ],
+  "weight": 4
+},
+
+"struggle": {
+  "infer_styles": [
+    "storytelling",
+    "conscious",
+    "lyrical"
+  ],
+  "weight": 5
+},
+
+"science": {
+  "infer_styles": [
+    "experimental",
+    "lyrical"
+  ],
+  "weight": 4
+},
+
+"loneliness": {
+  "infer_styles": [
+    "melodic",
+    "experimental"
+  ],
+  "weight": 4
+},
+
+"depression": {
+  "infer_styles": [
+    "melodic",
+    "experimental"
+  ],
+  "weight": 5
+},
+
+"southern_life": {
+  "infer_styles": [
+    "southern",
+    "crunk"
+  ],
+  "weight": 5
+},
+
+"lyricism": {
+  "infer_styles": [
+    "lyrical",
+    "boom_bap"
+  ],
+  "weight": 5
+},
+
+"flexing": {
+  "infer_styles": [
+    "trap",
+    "commercial",
+    "player_rap"
+  ],
+  "weight": 4
+},
+
+"gang_life": {
+  "infer_styles": [
+    "gangsta",
+    "west_coast",
+    "hardcore"
+  ],
+  "weight": 5
+}
+}
+}
