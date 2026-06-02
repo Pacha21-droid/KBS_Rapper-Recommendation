@@ -51,6 +51,7 @@ def apply_rules(user_data,rappers_data):
 
         rapper_name = rapper["name"].lower()
 
+        #Exact rapper match
         if rapper_name in user_data["rappers"]:
             score += exact_match_rapper
 
@@ -84,10 +85,6 @@ def apply_rules(user_data,rappers_data):
                     for s in current_rapper.get("similar_artists", [])]
                 if rapper_name in similar_rappers:
                     score += similar_match_rapper
-
-        #Exact rapper match
-        if rapper_name in user_data["rappers"]:
-            score += exact_match_rapper
 
         #Ignore empty results
         if score <= 0:
